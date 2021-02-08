@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://iapiac.github.io</id>
     <title>iapiac的网站</title>
-    <updated>2021-02-08T17:02:13.041Z</updated>
+    <updated>2021-02-08T17:12:05.729Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://iapiac.github.io"/>
     <link rel="self" href="https://iapiac.github.io/atom.xml"/>
@@ -10,6 +10,23 @@
     <logo>https://iapiac.github.io/images/avatar.png</logo>
     <icon>https://iapiac.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, iapiac的网站</rights>
+    <entry>
+        <title type="html"><![CDATA[Primary猴子]]></title>
+        <id>https://iapiac.github.io/primary-monkeys/</id>
+        <link href="https://iapiac.github.io/primary-monkeys/">
+        </link>
+        <updated>2021-02-08T17:06:25.000Z</updated>
+        <content type="html"><![CDATA[<p>##飞镖猴<br>
+-上路<br>
+-中路<br>
+-下路<br>
+##回旋镖猴<br>
+##大炮<br>
+##图钉发射器<br>
+##冰猴<br>
+##胶水炮手</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://iapiac.github.io/hello-gridea/</id>
